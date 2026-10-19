@@ -1,0 +1,21 @@
+defaults:
+  - _self_
+  - dataset: thuman
+  - model/encoder: lrm
+  - model/decoder: splatting_cuda
+
+data_loader:
+  test:
+    num_workers: 4
+    persistent_workers: false
+    batch_size: 1
+    seed: 2345
+
+checkpointing:
+  load: checkpoints/CGR_thuman2.0.ckpt
+
+test:
+  output_path: outputs/test
+  save_images: true
+
+seed: 111123
