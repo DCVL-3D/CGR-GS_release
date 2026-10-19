@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.so
+build/
+*.egg-info/
+outputs/
+wandb/
+checkpoints/
+data/
+*.ckpt
+*.thrw

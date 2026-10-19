@@ -1,0 +1,8 @@
+name: thuman
+roots: [data/thuman2.0_rendered]
+split: val
+
+image_shape: [512, 512]
+background_color: [0.0, 0.0, 0.0]
+
+ratio: 1.0
