@@ -17,8 +17,10 @@ Won-Sik Cheong,
 </p>
 
 <p align="center">
+<a href="https://arxiv.org/abs/2610.35152"><img src="https://img.shields.io/badge/arXiv-2610.35152-B31B1B?logo=arxiv"></a>
 <a href="https://openreview.net/forum?id=zbm9QnDqWY"><img src="https://img.shields.io/badge/OpenReview-Paper-8C1B13?logo=openreview"></a>
 <a href="https://neurips.cc/virtual/2026/loc/sydney/poster/148201"><img src="https://img.shields.io/badge/NeurIPS%202026-Poster-4B8BBE"></a>
+<a href="https://youtu.be/TM3oHEoQnVs"><img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube"></a>
 </p>
 
 <p align="center">
